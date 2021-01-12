@@ -54,9 +54,9 @@ class Home extends React.Component {
           <div className="col-md-6">
             <i className="fas fa-flag mt-4"></i>
             <h6 className="mb-2 mt-4">
-              Welcome to Jobble website. This website is designed for the
-              companies which are looking to hire new employees, as well as people
-              who are looking for job. To use the offered services by us,
+              Welcome to Jobble. This website is designed for the
+              companies that are looking to hire new employees, as well as for people
+              who are looking for a job. To use the offered services by us,
               please login to your account or if you don't have an account yet,
               please select an option from above and register.
             </h6>
